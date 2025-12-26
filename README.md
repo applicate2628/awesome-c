@@ -345,6 +345,7 @@ work.
   deterministic debugging. [``BSD-2-Clause``][BSD-2-Clause]
 * [Valgrind][85] - Range of dynamic analysis tools, including a leak
   checker. [``GPL-2.0-only``][GPL-2.0-only]
+* [vfs-pipe][710] - One-header library to expose internal C variables as a virtual filesystem for live inspection and tuning. [``MIT``][MIT]
 
 ## Documentation Generation ##
 
@@ -1854,3 +1855,4 @@ support for C.
 [707]: https://github.com/OCamlPro/owi
 [708]: https://hal.science/hal-04627413
 [709]: https://github.com/an-dr/microlog
+[710]: https://github.com/Nouridin/vfs_pipe
